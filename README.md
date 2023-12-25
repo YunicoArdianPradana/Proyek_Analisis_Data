@@ -5,13 +5,14 @@ adapun pertanyaan bisnis yang hendak diselesaikan antara lain:
 - Pertanyaan 2 : Bagaimana Trend Pendapatan/Pemasukan di 5 negara dengan revenue tertinggi ?
 - Pertanyaan 3 : Produk apa saja yang menjadi sumber pendapatan terbesar di lima negara bagian tersebut ?
 
-## Instalasi
+## Sumber Data
 
-Instruksi mengenai cara menginstal proyek Anda.
+Data yang digunakan pada project ini adalah dari [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
-### Langkah 1
-
-...
+## Struktur Direktori
+- /dataset: Direktori berisi dataset yang digunakan pada penelitian ini dengan format csv
+- /streamlit: berisi file python dengan nama visualisasi.py untuk menjalankan streamlit
+- Proyek_Analisis_Data: file ipynb yang digunakan untuk proses Exploratory Data Analysis untuk menjawab berbagai pertanyaan bisnis diatas
 
 ### Langkah 2
 
