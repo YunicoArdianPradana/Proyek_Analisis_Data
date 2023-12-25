@@ -6,17 +6,17 @@ adapun pertanyaan bisnis yang hendak diselesaikan antara lain:
 - Pertanyaan 3 : Produk apa saja yang menjadi sumber pendapatan terbesar di lima negara bagian tersebut ?
 
 ## Sumber Data
-
 Data yang digunakan pada project ini adalah dari [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
 ## Struktur Direktori
 - /dataset: Direktori berisi dataset yang digunakan pada penelitian ini dengan format csv
 - /streamlit: berisi file python dengan nama visualisasi.py untuk menjalankan streamlit
-- Proyek_Analisis_Data: file ipynb yang digunakan untuk proses Exploratory Data Analysis untuk menjawab berbagai pertanyaan bisnis diatas
+- Proyek_Analisis_Data.ipynb: file ipynb yang digunakan untuk proses Exploratory Data Analysis untuk menjawab berbagai pertanyaan bisnis diatas
 
-### Langkah 2
-
-...
+## Instalasi
+1. Clone repository ke komputer lokal anda menggunakan perintah berikut: https://github.com/YunicoArdianPradana/Proyek_Analisis_Data.git
+2. Lakukan Instalasi Kaggle dan Konfigurasi Kaggle Api: dengan cara sebagai berikut: [Kaggle Installation and API configuration](https://github.com/Kaggle/kaggle-api)
+3. Lakukan instalasi beberapa library yang digunakan pada project ini : pip install pandas streamlit pyplot 
 
 ## Penggunaan
 
