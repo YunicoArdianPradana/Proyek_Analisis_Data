@@ -1,6 +1,9 @@
-# Nama Proyek
-
-Deskripsi singkat proyek.
+# Proyek Analisis Data E-Commerce Olist
+Proyek ini dilakukan untuk memenuhi persyaratan menyelesaikan kelas belajar analisis data dengan python Dicoding. Disini saya melakukan Exploratory Data Analysis untuk menjawab beberapa pertanyaan bisnis
+adapun pertanyaan bisnis yang hendak diselesaikan antara lain:
+- Pertanyaan 1 : Negara bagian mana saja yang memiliki pendapatan tertinggi?
+- Pertanyaan 2 : Bagaimana Trend Pendapatan/Pemasukan di 5 negara dengan revenue tertinggi ?
+- Pertanyaan 3 : Produk apa saja yang menjadi sumber pendapatan terbesar di lima negara bagian tersebut ?
 
 ## Instalasi
 
