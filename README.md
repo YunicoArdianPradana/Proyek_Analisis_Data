@@ -14,29 +14,18 @@ Data yang digunakan pada project ini adalah dari [Kaggle](https://www.kaggle.com
 - Proyek_Analisis_Data.ipynb: file ipynb yang digunakan untuk proses Exploratory Data Analysis untuk menjawab berbagai pertanyaan bisnis diatas
 
 ## Instalasi
-1. Clone repository ke komputer lokal anda menggunakan perintah berikut: https://github.com/YunicoArdianPradana/Proyek_Analisis_Data.git
-2. Lakukan Instalasi Kaggle dan Konfigurasi Kaggle Api: dengan cara sebagai berikut: [Kaggle Installation and API configuration](https://github.com/Kaggle/kaggle-api)
-3. Lakukan instalasi beberapa library yang digunakan pada project ini : pip install pandas streamlit pyplot 
+1. Clone Ke Repository
+   - Salin repositori ke komputer lokal Anda menggunakan perintah berikut:
+      [Clone Repository](https://github.com/YunicoArdianPradana/Proyek_Analisis_Data.git)
+3. **Instalasi dan Konfigurasi Kaggle API:**
+    - Ikuti langkah-langkah [Instalasi Kaggle dan Konfigurasi Kaggle API](https://github.com/Kaggle/kaggle-api).
+4. Lakukan instalasi beberapa library yang digunakan pada project ini : pip install pandas streamlit pyplot 
 
 ## Penggunaan
-
 Cara menggunakan proyek ini.
 
-## Kontribusi
-
-Jika Anda ingin berkontribusi, silakan ikuti langkah-langkah berikut:
-
-1. Lakukan fork repositori ini.
-2. Buat branch baru: `git checkout -b fitur-anda`.
-3. Lakukan perubahan dan commit: `git commit -am 'Menambahkan fitur X'`.
-4. Push ke branch: `git push origin fitur-anda`.
-5. Kirimkan pull request.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [Nama Lisensi]. Lihat `LICENSE` untuk informasi lebih lanjut.
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan, hubungi [nama Anda] di [alamat email Anda].
+Jika Anda memiliki pertanyaan, hubungi ke email: yunicoardian123@gmail.com
 
