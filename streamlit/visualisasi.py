@@ -5,12 +5,12 @@ import plotly.express as px
 from plotly.subplots import make_subplots 
 
 # Import Dataset
-df_orders_dataset = pd.read_csv('olist_orders_dataset.csv')
-df_customer = pd.read_csv('olist_customers_dataset.csv')
-df_order_payments = pd.read_csv('olist_order_payments_dataset.csv')
-df_products_dataset = pd.read_csv('olist_products_dataset.csv')
-df_product_name = pd.read_csv('product_category_name_translation.csv')
-df_order_items = pd.read_csv('olist_order_items_dataset.csv')
+df_orders_dataset = pd.read_csv('../datasets/olist_orders_dataset.csv')
+df_customer = pd.read_csv('../datasets/olist_customers_dataset.csv')
+df_order_payments = pd.read_csv('../datasets/olist_order_payments_dataset.csv')
+df_products_dataset = pd.read_csv('../datasets/olist_products_dataset.csv')
+df_product_name = pd.read_csv('../datasets/product_category_name_translation.csv')
+df_order_items = pd.read_csv('../datasets/olist_order_items_dataset.csv')
 
 # Hanya pesanan yang telah dikirim yang akan digunakan dalam analisis berikut.
 df_orders123 = df_orders_dataset[df_orders_dataset['order_status'] == 'delivered'] # Pilih pesanan dengan status terkirim
